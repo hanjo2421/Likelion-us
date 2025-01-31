@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# Likelion-us
-=======
 # LIKELION US Project
->>>>>>> ee39967 (Initialize project structure)
+This is the main repository for the LIKELION US Web and Mentoring Platform.
